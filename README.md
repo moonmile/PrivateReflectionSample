@@ -41,6 +41,7 @@ public void AddEventHandler(object target, string eventName, Action<object, Even
     var dele = handlerInvoke.CreateDelegate(tt, handler);
     mi.Invoke((object)target, new object[] { dele });
 }
+```
 
 # Author 
 
