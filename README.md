@@ -1,7 +1,7 @@
 PrivateReflectionSample
 ===============
-How to search a private field.
-How to add method of reflection event
+- How to search a private field.
+- How to add method of reflection event
 
 プライベートフィールドを探索する方法と、リフレクションを使ってイベントを登録する方法のサンプルコードです。
 
